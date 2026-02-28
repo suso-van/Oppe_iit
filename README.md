@@ -1,21 +1,17 @@
-This version uses professional **Shields.io badges** and **Skill Icons** to give your repository that high-end "Open Source" look. It’s designed to be a "Master Hub" for all four years of the IITM BS program.
-
----
-
 # IITM BS Degree: The Ultimate OPPE Archive 🎓
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-Language-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Library](https://img.shields.io/badge/Library-Standard%20Lib-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
 <p align="center">
-<a href="[https://skillicons.dev](https://skillicons.dev)">
-<img src="[https://skillicons.dev/icons?i=py,java,c,mysql,html,css,github,apple](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,java,c,mysql,html,css,github,apple)" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,mysql,html,css,js,flask,github,vscode" />
+  </a>
 </p>
-
-</div>
-
----
-
 ## 📌 About This Repository
 
 This is a centralized resource for **Online Proctored Programming Exam (OPPE)** Previous Year Questions (PYQs). Whether you are in the Foundation level or moving toward the BS degree, this archive provides solved logic in **Google Colab** to help you clear the most critical part of the IITM curriculum.
